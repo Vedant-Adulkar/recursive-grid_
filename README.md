@@ -7,6 +7,10 @@ An interactive **3x3 grid game** built with **Next.js 16**, **React 19**, **Type
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwind-css)
 
+## 🌐 Live Demo
+
+**[🚀 Play the Game Here](https://recursive-grid-vercel.vercel.app)**
+
 ---
 
 ## 🎯 Game Rules
