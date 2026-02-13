@@ -136,51 +136,13 @@ recursive-grid/
 
 ---
 
-## 🌐 Deployment
+## 👨‍💻 Author
 
-### Deploy on Vercel (Recommended)
-
-The easiest way to deploy this Next.js app:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Vedant-Adulkar/Recursive-grid)
-
-1. Push your code to GitHub
-2. Import your repository in [Vercel](https://vercel.com)
-3. Vercel will auto-detect Next.js and deploy
-
-For more details, see the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying).
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
+**Vedant Adulkar**  
+GitHub: [@Vedant-Adulkar](https://github.com/Vedant-Adulkar)
 
 ---
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-
-**Vedant Adulkar**
-
-- GitHub: [@Vedant-Adulkar](https://github.com/Vedant-Adulkar)
-
----
-
-## 🙏 Acknowledgments
-
-- Built with [Next.js](https://nextjs.org)
-- Styled with [Tailwind CSS](https://tailwindcss.com)
-- Font optimization with [Geist](https://vercel.com/font)
-
----
-
-**Enjoy playing! 🎮**
